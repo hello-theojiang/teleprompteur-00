@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Téléprompteur</string>
+    <string name="edit_subtitle">Colle ton texte, lance le prompteur : le texte défile en haut de l\'écran, près de l\'objectif, pendant que la caméra te filme.</string>
+    <string name="edit_hint">Colle ici le texte à lire…</string>
+    <string name="btn_example">Insérer un exemple</string>
+    <string name="btn_launch">Lancer le prompteur</string>
+    <string name="speed_label">Vitesse</string>
+    <string name="size_label">Taille du texte</string>
+    <string name="btn_edit">Texte</string>
+    <string name="btn_play">Défiler</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_restart">Début</string>
+    <string name="btn_mirror">Miroir</string>
+    <string name="btn_rec">● REC</string>
+    <string name="btn_stop">■ Stop</string>
+    <string name="toast_saved">Vidéo enregistrée dans Films/Téléprompteur</string>
+    <string name="toast_rec_error">Erreur pendant l\'enregistrement</string>
+    <string name="toast_need_text">Colle d\'abord ton texte</string>
+    <string name="toast_need_camera">La caméra est nécessaire pour le prompteur</string>
+    <string name="toast_camera_error">Caméra indisponible</string>
+    <string name="toast_camera_not_ready">Caméra pas encore prête…</string>
+</resources>
